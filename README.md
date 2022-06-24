@@ -1,4 +1,5 @@
-### Hi there [@Dyseo](https://github.com/dyseo) a.k.a Al here 👋
+### Rose are red, violets are blue. Hello i'm [Dyseo](https://github.com/dyseo) 👋
 
+![Dyseo's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=dyseo&count_private=true&show_icons=true&theme=bear)
 - 🐍 [Python](https://www.python.org/)
 - 🌐 Language: Indonesia :indonesia: | English :us:
