@@ -1,5 +1,11 @@
 ### Rose are red, violets are blue. Hello i'm [Dyseo](https://github.com/dyseo) 👋
 
+![Github account info](https://metrics.lecoq.io/dyseo?template=classic&config.timezone=Indonesia)
+
+<details><summary>More statistics</summary>
+  
 ![Dyseo's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=dyseo&count_private=true&show_icons=true&theme=bear)
+  
 - 🐍 Snake Man
-- 🌐 Language: Indonesia :indonesia: | English :us:
+- 🌐 Language: Indonesia  | English
+</details>
