@@ -1,6 +1,6 @@
 ### Rose are red, violets are blue. Hello i'm [Alnyz](https://github.com/alnyz) 👋
 
-![Github account info](https://metrics.lecoq.io/dyseo?template=classic&config.timezone=Indonesia)
+![Github account info](https://metrics.lecoq.io/alnyz?template=classic&config.timezone=Indonesia)
 
 <details><summary>More statistics</summary>
   
