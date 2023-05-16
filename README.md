@@ -4,7 +4,7 @@
 
 <details><summary>More statistics</summary>
   
-![Dyseo's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=dyseo&count_private=true&show_icons=true&theme=bear)
+![Dyseo's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=alnyz&count_private=true&show_icons=true&theme=bear)
   
 - 🐍 Snake Man
 - 🌐 Language: Indonesia  | English
