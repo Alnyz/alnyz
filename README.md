@@ -1,4 +1,4 @@
-### Rose are red, violets are blue. Hello i'm [Dyseo](https://github.com/dyseo) 👋
+### Rose are red, violets are blue. Hello i'm [Alnyz](https://github.com/alnyz) 👋
 
 ![Github account info](https://metrics.lecoq.io/dyseo?template=classic&config.timezone=Indonesia)
 
