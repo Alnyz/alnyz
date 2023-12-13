@@ -2,5 +2,4 @@
 
 ![Metrics](/github-metrics.svg)
 
-
-- 🌐 Language: Indonesia  | English
+🌐 Language: Indonesia  | English
