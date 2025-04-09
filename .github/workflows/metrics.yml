@@ -28,6 +28,8 @@ jobs:
           user: alnyz
           template: classic
           base: header, activity, community, repositories, metadata
+          base_indepth: yes
+          repositories_forks: yes
           config_timezone: Asia/Jakarta
           plugin_achievements: yes
           plugin_achievements_display: compact
