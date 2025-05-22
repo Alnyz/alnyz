@@ -14,50 +14,45 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: left profile 
+      - name: profile 
         # uses: stalomeow/metrics@projects-v2
         uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: github-metrics-left.svg
+          filename: github-metrics.svg
 
           # Options
-          user: stalomeow
+          user: alnyz
           template: classic
           base: header, activity, community
-          config_timezone: Asia/Shanghai
+          config_timezone: Asia/Jakarta
           plugin_languages: yes
           plugin_languages_colors: github
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
-          plugin_languages_ignored: html, css
           plugin_languages_details: percentage #, lines
           plugin_languages_indepth: yes
           plugin_languages_analysis_timeout: 30
-          # plugin_anilist: yes
-          # plugin_anilist_user: Stalo
-          # plugin_anilist_sections: characters
-          # plugin_anilist_limit_characters: 22
           config_padding: 0, 8 + 11%
-          config_order: base.header, base.activity+community, languages #, anilist
+          config_order: base.header, base.activity+community, languages
 
-      - name: right profile 
-        # uses: stalomeow/metrics@projects-v2
-        uses: lowlighter/metrics@v3.34
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          filename: github-metrics-right.svg
+      # - name: right profile 
+      #   # uses: stalomeow/metrics@projects-v2
+      #   uses: lowlighter/metrics@v3.34
+      #   with:
+      #     token: ${{ secrets.METRICS_TOKEN }}
+      #     filename: github-metrics-right.svg
 
-          # Options
-          user: stalomeow
-          template: classic
-          base: ""
-          config_timezone: Asia/Shanghai
-          plugin_achievements: yes
-          plugin_achievements_threshold: X
-          plugin_achievements_limit: 8
-          plugin_achievements_display: detailed
-          # plugin_stars: yes
-          # plugin_stars_limit: 2
-          config_padding: 0, 8 + 11%
-          config_order: achievements #, stars
+      #     # Options
+      #     user: stalomeow
+      #     template: classic
+      #     base: ""
+      #     config_timezone: Asia/Shanghai
+      #     plugin_achievements: yes
+      #     plugin_achievements_threshold: X
+      #     plugin_achievements_limit: 8
+      #     plugin_achievements_display: detailed
+      #     # plugin_stars: yes
+      #     # plugin_stars_limit: 2
+      #     config_padding: 0, 8 + 11%
+      #     config_order: achievements #, stars
