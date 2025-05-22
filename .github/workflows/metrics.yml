@@ -15,7 +15,8 @@ jobs:
       contents: write
     steps:
       - name: left profile 
-        uses: stalomeow/metrics@projects-v2
+        # uses: stalomeow/metrics@projects-v2
+        uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics-left.svg
@@ -41,7 +42,8 @@ jobs:
           config_order: base.header, base.activity+community, languages #, anilist
 
       - name: right profile 
-        uses: stalomeow/metrics@projects-v2
+        # uses: stalomeow/metrics@projects-v2
+        uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics-right.svg
