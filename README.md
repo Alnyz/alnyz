@@ -1,7 +1,9 @@
 ### Rose are red, violets are blue. Hello i'm [Alnyz](https://github.com/alnyz) 👋
 
-![](/github-metrics.svg)
 
+![](/github-metrics.svg)
+---
+![](/github-metrics-right.svg)
 🌐 Language: Indonesia  | English
 
 ![](https://hit.yhype.me/github/profile?account_id=27824020)
