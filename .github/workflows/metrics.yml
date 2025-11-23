@@ -31,6 +31,7 @@ jobs:
           plugin_languages_details: bytes-size, percentage
           plugin_languages_indepth: yes
           plugin_languages_analysis_timeout: 60
+          commits_authoring: alnyz, dyseo, Alnyz, alnyz.co@gmail.com, katro.coplax@gmail.com
           config_order: base.header, base.activity+community, languages
 
       - name: right profile 
