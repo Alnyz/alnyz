@@ -1,0 +1,12 @@
+{
+  "extras": {
+    "default": false,
+    "features": true,
+    "logged": [
+      "metrics.api.github.overuse",
+      "metrics.cpu.overuse",
+      "metrics.run.tempdir",
+      "metrics.run.git",
+    ]
+  }
+}
