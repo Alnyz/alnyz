@@ -1,0 +1,43 @@
+name: Profile Metrics
+
+# Regenerates the minimalist monochrome metrics SVGs (metrics-light.svg /
+# metrics-dark.svg) shown in the README, every 12 hours.
+on:
+  schedule: [{ cron: "0 */12 * * *" }]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-metrics
+  cancel-in-progress: true
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Generate metrics SVGs
+        # METRICS_TOKEN is a personal access token (read:user, repo, read:org)
+        # so `viewer` resolves to the account owner, not the Actions bot.
+        env:
+          GH_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        run: node scripts/metrics-gen.mjs
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet -- metrics-light.svg metrics-dark.svg; then
+            git add metrics-light.svg metrics-dark.svg
+            git commit -m "chore: refresh profile metrics [skip ci]"
+            git push
+          else
+            echo "No metric changes."
+          fi

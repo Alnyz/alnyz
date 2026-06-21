@@ -1,0 +1,6 @@
+tools/
+assets/
+
+*.glb
+*.zip
+
