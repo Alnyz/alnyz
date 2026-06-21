@@ -369,14 +369,14 @@
 <line x1="56" y1="129" x2="464" y2="129" stroke="#e6edf3" stroke-opacity="0.12" stroke-width="1"/>
 <text x="260" y="151" text-anchor="middle" font-family="Inter, -apple-system, Segoe UI, sans-serif" font-size="9" font-weight="600" letter-spacing="0.22em" fill="#e6edf3" fill-opacity="0.45">LANGUAGES</text>
 <rect x="56" y="165" width="408" height="7" rx="3.5" fill="#e6edf3" fill-opacity="0.07"/>
-<rect x="56.0" y="165" width="325.4" height="7" rx="3.5" fill="#e6edf3" fill-opacity="1"/>
-<rect x="382.4" y="165" width="37.5" height="7" rx="3.5" fill="#e6edf3" fill-opacity="0.74"/>
-<rect x="420.9" y="165" width="21.7" height="7" rx="3.5" fill="#e6edf3" fill-opacity="0.52"/>
-<rect x="443.6" y="165" width="13.6" height="7" rx="3.5" fill="#e6edf3" fill-opacity="0.34"/>
-<rect x="458.2" y="165" width="3.5" height="7" rx="3.5" fill="#e6edf3" fill-opacity="0.2"/>
-<text x="260" y="188" text-anchor="middle" font-family="Inter, -apple-system, Segoe UI, sans-serif" font-size="10" font-weight="500" letter-spacing="0.02em" fill="#e6edf3" fill-opacity="0.7">Python 80%    ·    JavaScript 9%    ·    QML 6%    ·    C++ 4%    ·    Shell 1%</text>
+<rect x="56.0" y="165" width="259.7" height="7" rx="3.5" fill="#e6edf3" fill-opacity="1"/>
+<rect x="316.7" y="165" width="37.6" height="7" rx="3.5" fill="#e6edf3" fill-opacity="0.74"/>
+<rect x="355.3" y="165" width="33.9" height="7" rx="3.5" fill="#e6edf3" fill-opacity="0.52"/>
+<rect x="390.1" y="165" width="20.8" height="7" rx="3.5" fill="#e6edf3" fill-opacity="0.34"/>
+<rect x="411.9" y="165" width="17.3" height="7" rx="3.5" fill="#e6edf3" fill-opacity="0.2"/>
+<text x="260" y="188" text-anchor="middle" font-family="Inter, -apple-system, Segoe UI, sans-serif" font-size="10" font-weight="500" letter-spacing="0.02em" fill="#e6edf3" fill-opacity="0.7">Python 64%    ·    HTML 9%    ·    JavaScript 9%    ·    Vue 5%    ·    TypeScript 4%</text>
 <line x1="56" y1="204" x2="464" y2="204" stroke="#e6edf3" stroke-opacity="0.12" stroke-width="1"/>
-<text x="64.8" y="226" text-anchor="middle" font-family="Inter, -apple-system, Segoe UI, sans-serif" font-size="18" font-weight="700" letter-spacing="0.02em" fill="#e6edf3" fill-opacity="0.95">10</text>
+<text x="64.8" y="226" text-anchor="middle" font-family="Inter, -apple-system, Segoe UI, sans-serif" font-size="18" font-weight="700" letter-spacing="0.02em" fill="#e6edf3" fill-opacity="0.95">58</text>
 <text x="64.8" y="241" text-anchor="middle" font-family="Inter, -apple-system, Segoe UI, sans-serif" font-size="9" font-weight="500" letter-spacing="0.04em" fill="#e6edf3" fill-opacity="0.5">pull requests</text>
 <text x="162.39999999999998" y="226" text-anchor="middle" font-family="Inter, -apple-system, Segoe UI, sans-serif" font-size="18" font-weight="700" letter-spacing="0.02em" fill="#e6edf3" fill-opacity="0.95">118</text>
 <text x="162.39999999999998" y="241" text-anchor="middle" font-family="Inter, -apple-system, Segoe UI, sans-serif" font-size="9" font-weight="500" letter-spacing="0.04em" fill="#e6edf3" fill-opacity="0.5">stars</text>
