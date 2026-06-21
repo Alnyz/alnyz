@@ -9,7 +9,7 @@
 
 # ALNYZ
 
-Developer
+I write bugs, then fix them
 
 <br>
 
