@@ -381,7 +381,7 @@
 <line x1="56" y1="204" x2="464" y2="204" stroke="#12191f" stroke-opacity="0.12" stroke-width="1"/>
 <text x="64.8" y="226" text-anchor="middle" font-family="Inter, -apple-system, Segoe UI, sans-serif" font-size="18" font-weight="700" letter-spacing="0.02em" fill="#12191f" fill-opacity="0.95">63</text>
 <text x="64.8" y="241" text-anchor="middle" font-family="Inter, -apple-system, Segoe UI, sans-serif" font-size="9" font-weight="500" letter-spacing="0.04em" fill="#12191f" fill-opacity="0.5">pull requests</text>
-<text x="162.39999999999998" y="226" text-anchor="middle" font-family="Inter, -apple-system, Segoe UI, sans-serif" font-size="18" font-weight="700" letter-spacing="0.02em" fill="#12191f" fill-opacity="0.95">185</text>
+<text x="162.39999999999998" y="226" text-anchor="middle" font-family="Inter, -apple-system, Segoe UI, sans-serif" font-size="18" font-weight="700" letter-spacing="0.02em" fill="#12191f" fill-opacity="0.95">187</text>
 <text x="162.39999999999998" y="241" text-anchor="middle" font-family="Inter, -apple-system, Segoe UI, sans-serif" font-size="9" font-weight="500" letter-spacing="0.04em" fill="#12191f" fill-opacity="0.5">stars</text>
 <text x="260" y="226" text-anchor="middle" font-family="Inter, -apple-system, Segoe UI, sans-serif" font-size="18" font-weight="700" letter-spacing="0.02em" fill="#12191f" fill-opacity="0.95">44</text>
 <text x="260" y="241" text-anchor="middle" font-family="Inter, -apple-system, Segoe UI, sans-serif" font-size="9" font-weight="500" letter-spacing="0.04em" fill="#12191f" fill-opacity="0.5">repos</text>
